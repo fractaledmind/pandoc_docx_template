@@ -20,71 +20,36 @@ tags: [horace, vergil, consolation, commemoration, odes]
 -- 328-37, from *The Death of Virgil, A Dramatic Narrative* (1907) by Sir
 Thomas H. Warren
 
+
 ## Introduction
 
-The death of Vergil was no doubt a tragic event for Rome and her
-citizens, and even more so for his friends, among whom would surely be
-the poet Horace.[^1] Unfortunately, we have little extant which might shed
-light on their friendship more generally and Horace’s reaction to
-Vergil’s death in particular;[^2] little, that is, save *Odes* 4.12. An odd
-poem, it invites Vergil to join Horace at a symposium, although the poem
-was published six years after Vergil's death in 19 BC.[^3] This post-mortem
-poem to Vergil forms an odd pair with an earlier ode also addressed to
-Vergil and also written following the death of a friend—*Odes* 1.24. In
-this poem Vergil receives frank criticism for his excessive and
-misguided mourning after the death of their mutual friend Quintilius
-Varus.[^4] While in 1.24 Horace consoles the aggrieved Vergil, in 4.12
-Horace finds himself in Vergil's position—grieving the death of a
-friend. 
+The death of Vergil was no doubt a tragic event for Rome and her citizens, and even more so for his friends, among whom would surely be the poet Horace.[^1] Unfortunately, we have little extant which might shed light on their friendship more generally and Horace’s reaction to Vergil’s death in particular;[^2] little, that is, save *Odes* 4.12. An odd poem, it invites Vergil to join Horace at a symposium, although the poem was published six years after Vergil's death in 19 BC.[^3] This post-mortem poem to Vergil forms an odd pair with an earlier ode also addressed to Vergil and also written following the death of a friend—*Odes* 1.24. In this poem Vergil receives frank criticism for his excessive and misguided mourning after the death of their mutual friend Quintilius Varus.[^4] While in 1.24 Horace consoles the aggrieved Vergil, in 4.12 Horace finds himself in Vergil's position—grieving the death of a friend. 
 
-[^1]: On their friendship, see Campbell 1987: 314-318 and Duckworth 1956:
-281-316; that the two were not friends by the time of the *Odes*, see
-Thomas 2001: 60 who argues that Horace and Vergil were only
-acquaintances and Moritz 1969: 13 who believes that the friendship was
-strained by the publication of the *Odes*. For a response to such
-readings, see Margheim 2012.
+[^1]: On their friendship, see Campbell 1987: 314-318 and Duckworth 1956: 281-316; that the two were not friends by the time of the *Odes*, see Thomas 2001: 60 who argues that Horace and Vergil were only acquaintances and Moritz 1969: 13 who believes that the friendship was strained by the publication of the *Odes*. For a response to such readings, see Margheim 2012.
 
-[^2]: Horace’s poetry provides the sole basis for positing a friendship.
-Vergil never mentions Horace by name in his poetry, and no other
-contemporary or near-contemporary sources ascribe *amicitia* to the two
-poets, although by 380 St. Jerome assumes a friendship. Horace names
-Vergil ten times throughout his corpus (*Sat*. 1.5.40, 48, 1.6.55,
-1.10.45, 81; *Odes* 1.3.6, 1.24.10, 4.12.13; *Ep*. 2.1.247; *A.P*. 55),
-five times in the *Satires* alone, where Vergil consistently appears as
-a friend and colleague. 
+[^2]: Horace’s poetry provides the sole basis for positing a friendship. Vergil never mentions Horace by name in his poetry, and no other contemporary or near-contemporary sources ascribe *amicitia* to the two poets, although by 380 St. Jerome assumes a friendship. Horace names Vergil ten times throughout his corpus (*Sat*. 1.5.40, 48, 1.6.55, 1.10.45, 81; *Odes* 1.3.6, 1.24.10, 4.12.13; *Ep*. 2.1.247; *A.P*. 55), five times in the *Satires* alone, where Vergil consistently appears as a friend and colleague. 
 
-[^3]: Though there is some debate whether the Vergilius of 4.12 is Virgil the
-poet, the *opinio communis* today asserts this identification (see
-below, p. --).
+[^3]: Though there is some debate whether the Vergilius of 4.12 is Virgil the poet, the *opinio communis* today asserts this identification (see below, p. --).
 
-[^4]: For readings of *Odes* 1.24, see Commager 1995: 287-90, Khan 1999,
-Nisbet and Hubbard 1970: 279-89, Lowrie 1994: 377-394, Putnam 1993, and
-West 1995: 112-15. For the Epicurean, and specifically Philodeman,
-influence on the ode, see Thibodeau 2003: 243-56 and Armstrong 2008:
-97-99.
+[^4]: For readings of *Odes* 1.24, see Commager 1995: 287-90, Khan 1999, Nisbet and Hubbard 1970: 279-89, Lowrie 1994: 377-394, Putnam 1993, and West 1995: 112-15. For the Epicurean, and specifically Philodeman, influence on the ode, see Thibodeau 2003: 243-56 and Armstrong 2008: 97-99.
 
 
-Horace confronts grief and death directly in both *Odes* 1.24 and 4.12,
-and each poem ends with a generalizing *sententia*, yet their import would
-appear contradictory. On the one hand, *Odes* 1.24 recommends the
-consolatory power of patience:
+Horace confronts grief and death directly in both *Odes* 1.24 and 4.12, and each poem ends with a generalizing *sententia*, yet their import would appear contradictory. On the one hand, *Odes* 1.24 recommends the consolatory power of patience:
 
->Durum; sed levius fit patientia
-
+>Durum; sed levius fit patientia \
 >     quicquid corrigere est nefas  
 >-- *Odes* 1.24.19-20
 \
 \
 >It is hard; but whatever is forbidden to correct becomes easier to bear
-with patience.,[^5]
+with patience.[^5]
 
 [^5]: Unless noted, Latin text of Horace's *Odes* is Garrison 1991 and
 translations are my own.
 
 On the other hand, *Odes* 4.12 turns to the sweetness of folly:
 
->misce stultitiam consiliis brevem: 
-
+>misce stultitiam consiliis brevem: \
 >     dulce est desipere in loco.  
 >-- *Odes* 4.12.25-28
 \
@@ -103,6 +68,8 @@ Horace, in the persona of a philosophical teacher, advises that one
 convivial poet suggests that the foolishness of mourning has its proper
 place. I argue that this is not an about-face in Horace’s philosophy,
 but rather a shift in emphasis. 
+
+New line.
 
 This paper begins with brief but thorough readings of the two odes,
 paying particular attention to their consolatory elements. I demonstrate
